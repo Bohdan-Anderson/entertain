@@ -1,11 +1,12 @@
 {
-  "name": "entertain",
-  "version": "0.0.0",
-  "description": "This is for me to entertain me in app form",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+	"name": "entertain",
+	"version": "0.0.0",
+	"description": "This is for me to entertain me in app form",
+	"main": "index.html",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"name": "nw-demo"
 }
